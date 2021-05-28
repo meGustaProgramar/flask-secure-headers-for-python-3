@@ -1,4 +1,4 @@
-# flask-secure-headers-for-python-3-master
+# flask-secure-headers-for-python-3
 
 twaldear's flask-secure-headers modified for use with Python 3
 
